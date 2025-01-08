@@ -1,6 +1,6 @@
 {
     "type": "module",
-    "name": "hello-world-app",
+    "name": "hello",
     "version": "1.0.0",
     "description": "A simple Hello World app using Express",
     "main": "app.js",
