@@ -16,7 +16,7 @@ app.get('/', (req, res) => {
         res.send('Hello World Pass'); 
     } catch (err) {
         console.error("Error handling request:!!", err);
-        res.status(500).send('Something went wrong');
+        res.status(500).send('Something went wrong.....');
     }
 });
 
